@@ -1,0 +1,15 @@
+/home/kirill/Рабочий стол/new/DZ2_4/bin/Debug/net6.0/DZ2_4
+/home/kirill/Рабочий стол/new/DZ2_4/bin/Debug/net6.0/DZ2_4.deps.json
+/home/kirill/Рабочий стол/new/DZ2_4/bin/Debug/net6.0/DZ2_4.runtimeconfig.json
+/home/kirill/Рабочий стол/new/DZ2_4/bin/Debug/net6.0/DZ2_4.dll
+/home/kirill/Рабочий стол/new/DZ2_4/bin/Debug/net6.0/DZ2_4.pdb
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.csproj.AssemblyReference.cache
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.AssemblyInfoInputs.cache
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.AssemblyInfo.cs
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.csproj.CoreCompileInputs.cache
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.dll
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/refint/DZ2_4.dll
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.pdb
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/DZ2_4.genruntimeconfig.cache
+/home/kirill/Рабочий стол/new/DZ2_4/obj/Debug/net6.0/ref/DZ2_4.dll
